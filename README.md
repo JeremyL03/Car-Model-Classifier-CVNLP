@@ -4,7 +4,7 @@ This repository contains the code and resources for a group project on car model
 🚀 Project Overview
 Goal: Accurately classify car images based on make and model.
 
-Dataset: Stanford Cars Dataset
+Dataset: Stanford Cars Dataset (https://www.kaggle.com/datasets/eduardo4jesus/stanford-cars-dataset)
 
 Models Used:
 
