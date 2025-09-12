@@ -12,7 +12,7 @@ AlexNet
 
 VGG16 (pre-trained & fine-tuned)
 
-🛠️ Technologies
+🛠️ Tech Stack
 Python · TensorFlow · Keras · NumPy · Matplotlib · Pandas · Scikit-learn · Seaborn
 
 🔑 Approach
